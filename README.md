@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @wrafalit
-- 👀 I’m interested in Python / Data Science / ML
-- 🌱 I’m currently learning Python / Java / PostgreSQL
-- 💞️ I’m looking to collaborate on Trainee/Internship/Junior by remote or local in Poland
+- 🌱 I’m currently learning Python / Java / Test Automation / PostgreSQL
+- 💞️ I’m looking to collaborate by remote or local in Poland
 - 📫 How to reach me: wrafalit [ at ] g mail [dot] com 
 
 <!---
